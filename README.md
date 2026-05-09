@@ -45,12 +45,8 @@ raul.gonzalez · sql · c# · automation
 ### `// metrics`
 
 <p align="center">
-  <a href="https://github.com/x-Raul">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=x-Raul&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=818CF8&icon_color=8B5CF6&text_color=94A3B8&ring_color=22D3EE&cache_seconds=1800" alt="stats" />
-  </a>
-  <a href="https://github.com/x-Raul">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-Raul&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=94A3B8&langs_count=8&cache_seconds=1800" alt="top langs" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=x-Raul&theme=transparent" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=x-Raul&theme=transparent" alt="top langs" />
 </p>
 
 <p align="center">
