@@ -51,7 +51,7 @@ raul.gonzalez · sql · c# · automation
 
 <p align="center">
   <a href="https://github.com/x-Raul">
-    <img height="165" src="https://streak-stats.demolab.com?user=x-Raul&hide_border=true&background=0D1117&stroke=1E293B&ring=818CF8&fire=F472B6&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=475569" alt="streak" />
+    <img height="165" src="https://streak-stats.demolab.com?user=x-Raul&hide_border=true&theme=transparent&mode=weekly&fire=F472B6&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=475569" alt="streak" />
   </a>
 </p>
 
