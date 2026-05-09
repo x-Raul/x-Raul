@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-### Hi there 👋
-
-<!--
-**x-Raul/x-Raul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
 <!--
   ┌─────────────────────────────────────────────────────────────┐
   │  x-Raul · README.md                                         │
@@ -62,19 +44,19 @@ raul.gonzalez · sql · c# · automation
 
 ### `// metrics`
 
-<table>
-  <tr>
-    <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=x-Raul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=8B5CF6&text_color=94A3B8&ring_color=22D3EE" />
-    </td>
-    <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-Raul&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=94A3B8&langs_count=8" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/x-Raul">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=x-Raul&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=818CF8&icon_color=8B5CF6&text_color=94A3B8&ring_color=22D3EE&cache_seconds=1800" alt="stats" />
+  </a>
+  <a href="https://github.com/x-Raul">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-Raul&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=94A3B8&langs_count=8&cache_seconds=1800" alt="top langs" />
+  </a>
+</p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=x-Raul&theme=transparent&hide_border=true&background=0D1117&stroke=1E293B&ring=818CF8&fire=F472B6&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=475569" height="170" />
+<p align="center">
+  <a href="https://github.com/x-Raul">
+    <img height="165" src="https://streak-stats.demolab.com?user=x-Raul&hide_border=true&background=0D1117&stroke=1E293B&ring=818CF8&fire=F472B6&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=475569" alt="streak" />
+  </a>
 </p>
 
 ### `// activity`
@@ -84,7 +66,6 @@ raul.gonzalez · sql · c# · automation
   <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=x-Raul&theme=minimal&hide_border=true&custom_title=commits%20%2F%2F%20last%2031%20days" />
 </picture>
 
-<!-- snake animation: requires Platane/snk action — see /workflows below -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x-Raul/x-Raul/output/github-snake-dark.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/x-Raul/x-Raul/output/github-snake.svg" />
@@ -101,4 +82,3 @@ raul.gonzalez · sql · c# · automation
 <img src="https://komarev.com/ghpvc/?username=x-Raul&style=flat-square&color=4F46E5&label=visitors" alt="views" />
 
 </div>
->>>>>>> 0d9608e (feat: profile readme + snake workflow)
