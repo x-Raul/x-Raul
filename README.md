@@ -11,7 +11,7 @@
 
 ```
 > whoami
-  Raul Gonzalez · SQL · C# · Automation
+  Raul Gonzalez · Engineer
 > status
   Building things
 ```
