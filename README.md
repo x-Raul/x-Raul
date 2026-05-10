@@ -8,14 +8,12 @@
 <div align="center">
 
 <h1 align="left" id="macropower-title">🤨 Hey Hola</h1>
-<h3 align="left"></h3>
-
 
 ```
 > whoami
-        Raul Gonzalez · SQL · C# · Automation
+  Raul Gonzalez · SQL · C# · Automation
 > status
-        Building things
+  Building things
 ```
 </div>
 
